@@ -1,0 +1,858 @@
+Script started on 2021-02-04 15:09:37-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+annguyen@pe15:~/it244/ex/ex4$ cd
+annguyen@pe15:~$ pwd
+/home/annguyen
+annguyen@pe15:~$ ls
+it116  it117  it244
+annguyen@pe15:~$ ls it244
+ex  hw
+annguyen@pe15:~$ ls -a
+.  ..  .bash_history  .cache  it116  it117  it244  .local
+annguyen@pe15:~$ ls -al
+total 16
+drwxr-xr-x    4 annguyen ugrad 4096 Feb  3 18:48 .
+drwxr-xr-x 2834 root     root     0 Feb  3 12:03 ..
+-rw-------    1 annguyen ugrad 4027 Feb  4 09:10 .bash_history
+drwx------    2 annguyen ugrad 4096 Jan 27 19:28 .cache
+lrwxrwxrwx    1 root     root    36 Jan 26 21:18 it116 -> /courses/it116/s21/ghoffman/annguyen
+lrwxrwxrwx    1 root     root    36 Jan 26 21:18 it117 -> /courses/it117/s21/ghoffman/annguyen
+lrwxrwxrwx    1 root     root    36 Jan 26 21:18 it244 -> /courses/it244/s21/ghoffman/annguyen
+drwxr-xr-x    3 annguyen ugrad 4096 Feb  3 18:48 .local
+annguyen@pe15:~$ cat .bash_history
+exit
+yppasswd
+exit
+exit
+exit
+annguyen - ~
+ls
+cd it244
+cd ..
+ls
+it244
+ls -a
+cd it244
+cd ..
+ls 
+dir
+pwd
+cd it117
+pwd
+pwd
+mkdir hw
+mkdir ex
+dir
+cd ex
+mkdir ex2
+pwd
+dir
+ls
+pwd
+ls
+cd ..
+ls
+cd ex
+ls
+cd it117/ex/ex2
+pwd
+cd ex2
+pwd
+chmod 755 ex2.py
+cp /home/ghoffman/course_files/it117_files/temps.txt .
+./ex2.py
+dir
+~ghoffman/it117_test/ex02.sh
+./ex2.py
+dir
+ex2.py
+/ex2.py
+./ex2.py
+~ghoffman/it117_test/ex02.sh
+./ex2.py
+bad interpreter: No such file or directory
+./ex2
+./ex2
+pwd
+ls
+rm ex2.py
+ls
+ls
+chmod 755 ex2.py
+./ex2.py
+~ghoffman/it117_test/ex02.sh
+./ex02.py
+./ex2.py
+exit
+pwd
+ls
+ls -a
+cd it244
+ls
+pwd
+mkdir ex
+ls
+mkdir hw
+ls
+cd ex
+pwd
+mkdir ex2
+ls
+cd ex2
+touch ex2.sh
+ls
+~ghoffman/it244_test/e02.sh
+~ghoffman/it244_test/ex02.sh
+~ghoffman/it244_test/ex02.sh
+ls
+ls -
+ls -a
+cd ..
+ls
+cd
+pws
+pwd
+~ghoffman/it244_test/ex02.sh
+exit
+ls
+cd it 244
+cd it244
+ls -a
+cd ex
+ls
+cd ex2
+ls
+~ghoffman/it244_test/ex02.sh
+bash/ghoffman/it244_test/ex02.sh
+ls
+cd it244/ex/ex2
+ls
+bash /ghoffman/it244_test/ex02.sh
+bash ~/ghoffman/it244_test/ex02.sh
+bash~/ghoffman/it244_test/ex02.sh
+bash /ghoffman/it244_test/ex02.sh
+bash/ghoffman/it244_test/ex02.sh
+~/ghoffman/it244_test/ex02.sh
+ls
+cd it244
+~ghoffman/it244_test/ex02.sh
+pws
+pwd
+ls
+cd ex
+ls
+cd ex2
+ls
+~ghoffman/it244_test/ex02.sh
+bash /ghoffman/it244_test/ex02.sh
+bash ~/ghoffman/it244_test/ex02.sh
+bash/ghoffman/it244_test/ex02.sh
+bash /ghoffman/it244_test/ex02.sh
+exit
+ls
+cd it244/ex/ex2
+ls -a
+bash /ghoffman/it244_test/ex02.sh
+bash/ghoffman/it244_test/ex02.sh
+~/ghoffman/it244_test/ex02.sh
+~ghoffman/it244_test/ex02.sh
+bash ~ghoffman/it244_test/ex02.sh
+bash ~ghoffman/it244_test/ex02.sh
+exit
+ls -a
+cd it244
+ls
+cd ex
+ls
+mkdir ex3
+ls
+pdw
+pwd
+ls it244
+ls
+ls ex3
+cd ..
+ls -l ex
+ls html
+cd ex
+ls -l ex
+ls -l
+cat --help
+cd
+man --help
+info
+info ls
+exit
+exit
+exit
+pwd
+ls
+cd it244
+ls
+cd ex
+ls
+cd ex3
+cd
+cd it117
+pwd
+ls
+cd ex
+ls
+mkdir ex3
+ls
+cd ex3
+cd it117
+cd ex
+ls
+cd ex3
+pwd
+chmod 755 ex3.py
+cp /home/ghoffman/course_files/it117_files/temps.txt .
+./ex3.py
+bash ~ghoffman/it117_test/ex02.sh
+bash ~ghoffman/it117_test/ex03.sh
+bash ~ghoffman/it117_test/ex03.sh
+bash ~ghoffman/it117_test/ex3.sh
+~ghoffman/it117_test/ex03.sh
+./ex3.py
+ls -l
+ls
+~ghoffman/it117_test/ex03.sh
+~ghoffman/it117_test/ex02.sh
+exit
+ls
+cd it117\ex\ex3
+cd it117
+cd ex
+cd ex3
+ls
+dos2unix ex3.py
+~ghoffman/it117_test/ex03.sh
+ls
+cd it117
+ls
+cd hw/hw1
+cd it117/hw
+pwd
+cd /home/annguyen/it117/hw
+ls
+mkdir hw2
+ls
+cd hw2
+ls
+cd it117/hw/hw2
+ls
+ls
+cp /home/ghoffman/course_files/it117_files/qz_04_grades.txt
+cp /home/ghoffman/course_files/it117_files/qz_04_grades.txt .
+ls -a
+ls
+chmod 755 hw2.py
+./hw2.py
+./hw2.py
+exit
+cd
+pwd
+ls
+echo $SHELL
+exit
+cd it244
+cd ex
+ls
+cd ex3
+nano today.txt
+nano today.txt
+cat today.txt
+script
+cat typescript
+cd /home/ghoffman/course_files/it244_files
+./forever.sh
+
+cat typescript
+man ls
+apropos who
+info who
+info
+~ghoffman/it244_test/ex03.sh
+exit
+cd
+pwd
+ls
+ls -a
+cd /home/ghoffman/course_files/it244_files
+ls -a
+cat fruit.txt
+cat red_sox.txt
+cd hw2
+cd it244/hw/hw2
+pwd
+cd
+cd it244/hw/hw2
+pwd
+ls
+ls -l
+exit
+cd
+pwd
+ls
+ls -a
+cd /home/ghoffman/course_files/it244_files
+ls -l
+cat fruit.txt
+cat red_sox.txt
+cd /home/annguyen/it244/hw/hw2
+pwd
+ls
+ls -l
+exit
+cd
+pwd
+ls
+ls -a
+cd /home/ghoffman/course_files/it244_files
+ls -l
+cat fruit.txt
+cat red_sox.txt
+cd /home/annguyen/it244/hw/hw2
+pwd
+ls
+ls -a
+exit
+ls
+cd it244/hw/hw2
+cd it244
+cd it244/hw
+cd it244
+ls
+cd hw
+ls
+pwd
+mkdir hw2
+cd hw2
+pwd
+nano redsox.txt
+pwd
+script
+cat typescript
+cd typescript
+ls
+rm typescript
+ls
+cd
+pwd
+ls
+ls -a
+cd /home/ghoffman/course_files/it244_files
+ls -a
+cat fruit.txt
+cat red_sox.txt
+cd
+cd it244/hw/hw2
+pwd
+ls
+ls -l
+pwd
+script
+ls
+cat typescript
+ls
+rm typescript
+ls
+pwd
+script
+cat typescript
+ls
+cat redsox.txt
+cat typescript
+exit
+# Step 1
+cd
+# Step 2
+pwd
+# Step 3
+ls
+# Step 4
+ls -a
+# Step 5
+cd /home/ghoffman/course_files/it244_files
+# Step 6
+ls -l
+# Step 7
+cat fruit.txt
+# Step 8
+cat red_sox.txt
+# Step 9
+cd /home/annguyen/it244/hw/hw2
+# Step 10
+pwd
+# Step 11
+ls
+# Step 12
+ls -a
+exit
+ls
+cd it244/hw/hw2
+ls
+rm typescript
+ls
+script
+ls
+cat typescript
+exit
+annguyen@pe15:~$ cat -n .bash_history
+     1	exit
+     2	yppasswd
+     3	exit
+     4	exit
+     5	exit
+     6	annguyen - ~
+     7	ls
+     8	cd it244
+     9	cd ..
+    10	ls
+    11	it244
+    12	ls -a
+    13	cd it244
+    14	cd ..
+    15	ls 
+    16	dir
+    17	pwd
+    18	cd it117
+    19	pwd
+    20	pwd
+    21	mkdir hw
+    22	mkdir ex
+    23	dir
+    24	cd ex
+    25	mkdir ex2
+    26	pwd
+    27	dir
+    28	ls
+    29	pwd
+    30	ls
+    31	cd ..
+    32	ls
+    33	cd ex
+    34	ls
+    35	cd it117/ex/ex2
+    36	pwd
+    37	cd ex2
+    38	pwd
+    39	chmod 755 ex2.py
+    40	cp /home/ghoffman/course_files/it117_files/temps.txt .
+    41	./ex2.py
+    42	dir
+    43	~ghoffman/it117_test/ex02.sh
+    44	./ex2.py
+    45	dir
+    46	ex2.py
+    47	/ex2.py
+    48	./ex2.py
+    49	~ghoffman/it117_test/ex02.sh
+    50	./ex2.py
+    51	bad interpreter: No such file or directory
+    52	./ex2
+    53	./ex2
+    54	pwd
+    55	ls
+    56	rm ex2.py
+    57	ls
+    58	ls
+    59	chmod 755 ex2.py
+    60	./ex2.py
+    61	~ghoffman/it117_test/ex02.sh
+    62	./ex02.py
+    63	./ex2.py
+    64	exit
+    65	pwd
+    66	ls
+    67	ls -a
+    68	cd it244
+    69	ls
+    70	pwd
+    71	mkdir ex
+    72	ls
+    73	mkdir hw
+    74	ls
+    75	cd ex
+    76	pwd
+    77	mkdir ex2
+    78	ls
+    79	cd ex2
+    80	touch ex2.sh
+    81	ls
+    82	~ghoffman/it244_test/e02.sh
+    83	~ghoffman/it244_test/ex02.sh
+    84	~ghoffman/it244_test/ex02.sh
+    85	ls
+    86	ls -
+    87	ls -a
+    88	cd ..
+    89	ls
+    90	cd
+    91	pws
+    92	pwd
+    93	~ghoffman/it244_test/ex02.sh
+    94	exit
+    95	ls
+    96	cd it 244
+    97	cd it244
+    98	ls -a
+    99	cd ex
+   100	ls
+   101	cd ex2
+   102	ls
+   103	~ghoffman/it244_test/ex02.sh
+   104	bash/ghoffman/it244_test/ex02.sh
+   105	ls
+   106	cd it244/ex/ex2
+   107	ls
+   108	bash /ghoffman/it244_test/ex02.sh
+   109	bash ~/ghoffman/it244_test/ex02.sh
+   110	bash~/ghoffman/it244_test/ex02.sh
+   111	bash /ghoffman/it244_test/ex02.sh
+   112	bash/ghoffman/it244_test/ex02.sh
+   113	~/ghoffman/it244_test/ex02.sh
+   114	ls
+   115	cd it244
+   116	~ghoffman/it244_test/ex02.sh
+   117	pws
+   118	pwd
+   119	ls
+   120	cd ex
+   121	ls
+   122	cd ex2
+   123	ls
+   124	~ghoffman/it244_test/ex02.sh
+   125	bash /ghoffman/it244_test/ex02.sh
+   126	bash ~/ghoffman/it244_test/ex02.sh
+   127	bash/ghoffman/it244_test/ex02.sh
+   128	bash /ghoffman/it244_test/ex02.sh
+   129	exit
+   130	ls
+   131	cd it244/ex/ex2
+   132	ls -a
+   133	bash /ghoffman/it244_test/ex02.sh
+   134	bash/ghoffman/it244_test/ex02.sh
+   135	~/ghoffman/it244_test/ex02.sh
+   136	~ghoffman/it244_test/ex02.sh
+   137	bash ~ghoffman/it244_test/ex02.sh
+   138	bash ~ghoffman/it244_test/ex02.sh
+   139	exit
+   140	ls -a
+   141	cd it244
+   142	ls
+   143	cd ex
+   144	ls
+   145	mkdir ex3
+   146	ls
+   147	pdw
+   148	pwd
+   149	ls it244
+   150	ls
+   151	ls ex3
+   152	cd ..
+   153	ls -l ex
+   154	ls html
+   155	cd ex
+   156	ls -l ex
+   157	ls -l
+   158	cat --help
+   159	cd
+   160	man --help
+   161	info
+   162	info ls
+   163	exit
+   164	exit
+   165	exit
+   166	pwd
+   167	ls
+   168	cd it244
+   169	ls
+   170	cd ex
+   171	ls
+   172	cd ex3
+   173	cd
+   174	cd it117
+   175	pwd
+   176	ls
+   177	cd ex
+   178	ls
+   179	mkdir ex3
+   180	ls
+   181	cd ex3
+   182	cd it117
+   183	cd ex
+   184	ls
+   185	cd ex3
+   186	pwd
+   187	chmod 755 ex3.py
+   188	cp /home/ghoffman/course_files/it117_files/temps.txt .
+   189	./ex3.py
+   190	bash ~ghoffman/it117_test/ex02.sh
+   191	bash ~ghoffman/it117_test/ex03.sh
+   192	bash ~ghoffman/it117_test/ex03.sh
+   193	bash ~ghoffman/it117_test/ex3.sh
+   194	~ghoffman/it117_test/ex03.sh
+   195	./ex3.py
+   196	ls -l
+   197	ls
+   198	~ghoffman/it117_test/ex03.sh
+   199	~ghoffman/it117_test/ex02.sh
+   200	exit
+   201	ls
+   202	cd it117\ex\ex3
+   203	cd it117
+   204	cd ex
+   205	cd ex3
+   206	ls
+   207	dos2unix ex3.py
+   208	~ghoffman/it117_test/ex03.sh
+   209	ls
+   210	cd it117
+   211	ls
+   212	cd hw/hw1
+   213	cd it117/hw
+   214	pwd
+   215	cd /home/annguyen/it117/hw
+   216	ls
+   217	mkdir hw2
+   218	ls
+   219	cd hw2
+   220	ls
+   221	cd it117/hw/hw2
+   222	ls
+   223	ls
+   224	cp /home/ghoffman/course_files/it117_files/qz_04_grades.txt
+   225	cp /home/ghoffman/course_files/it117_files/qz_04_grades.txt .
+   226	ls -a
+   227	ls
+   228	chmod 755 hw2.py
+   229	./hw2.py
+   230	./hw2.py
+   231	exit
+   232	cd
+   233	pwd
+   234	ls
+   235	echo $SHELL
+   236	exit
+   237	cd it244
+   238	cd ex
+   239	ls
+   240	cd ex3
+   241	nano today.txt
+   242	nano today.txt
+   243	cat today.txt
+   244	script
+   245	cat typescript
+   246	cd /home/ghoffman/course_files/it244_files
+   247	./forever.sh
+   248	
+   249	cat typescript
+   250	man ls
+   251	apropos who
+   252	info who
+   253	info
+   254	~ghoffman/it244_test/ex03.sh
+   255	exit
+   256	cd
+   257	pwd
+   258	ls
+   259	ls -a
+   260	cd /home/ghoffman/course_files/it244_files
+   261	ls -a
+   262	cat fruit.txt
+   263	cat red_sox.txt
+   264	cd hw2
+   265	cd it244/hw/hw2
+   266	pwd
+   267	cd
+   268	cd it244/hw/hw2
+   269	pwd
+   270	ls
+   271	ls -l
+   272	exit
+   273	cd
+   274	pwd
+   275	ls
+   276	ls -a
+   277	cd /home/ghoffman/course_files/it244_files
+   278	ls -l
+   279	cat fruit.txt
+   280	cat red_sox.txt
+   281	cd /home/annguyen/it244/hw/hw2
+   282	pwd
+   283	ls
+   284	ls -l
+   285	exit
+   286	cd
+   287	pwd
+   288	ls
+   289	ls -a
+   290	cd /home/ghoffman/course_files/it244_files
+   291	ls -l
+   292	cat fruit.txt
+   293	cat red_sox.txt
+   294	cd /home/annguyen/it244/hw/hw2
+   295	pwd
+   296	ls
+   297	ls -a
+   298	exit
+   299	ls
+   300	cd it244/hw/hw2
+   301	cd it244
+   302	cd it244/hw
+   303	cd it244
+   304	ls
+   305	cd hw
+   306	ls
+   307	pwd
+   308	mkdir hw2
+   309	cd hw2
+   310	pwd
+   311	nano redsox.txt
+   312	pwd
+   313	script
+   314	cat typescript
+   315	cd typescript
+   316	ls
+   317	rm typescript
+   318	ls
+   319	cd
+   320	pwd
+   321	ls
+   322	ls -a
+   323	cd /home/ghoffman/course_files/it244_files
+   324	ls -a
+   325	cat fruit.txt
+   326	cat red_sox.txt
+   327	cd
+   328	cd it244/hw/hw2
+   329	pwd
+   330	ls
+   331	ls -l
+   332	pwd
+   333	script
+   334	ls
+   335	cat typescript
+   336	ls
+   337	rm typescript
+   338	ls
+   339	pwd
+   340	script
+   341	cat typescript
+   342	ls
+   343	cat redsox.txt
+   344	cat typescript
+   345	exit
+   346	# Step 1
+   347	cd
+   348	# Step 2
+   349	pwd
+   350	# Step 3
+   351	ls
+   352	# Step 4
+   353	ls -a
+   354	# Step 5
+   355	cd /home/ghoffman/course_files/it244_files
+   356	# Step 6
+   357	ls -l
+   358	# Step 7
+   359	cat fruit.txt
+   360	# Step 8
+   361	cat red_sox.txt
+   362	# Step 9
+   363	cd /home/annguyen/it244/hw/hw2
+   364	# Step 10
+   365	pwd
+   366	# Step 11
+   367	ls
+   368	# Step 12
+   369	ls -a
+   370	exit
+   371	ls
+   372	cd it244/hw/hw2
+   373	ls
+   374	rm typescript
+   375	ls
+   376	script
+   377	ls
+   378	cat typescript
+   379	exit
+annguyen@pe15:~$ cd it244/ex/ex4
+annguyen@pe15:~/it244/ex/ex4$ ex[K[Kpwd
+/home/annguyen/it244/ex/ex4
+annguyen@pe15:~/it244/ex/ex4$ mkdir test
+annguyen@pe15:~/it244/ex/ex4$ ls
+test  typescript
+annguyen@pe15:~/it244/ex/ex4$ ls[K[Kmkdir test2
+annguyen@pe15:~/it244/ex/ex4$ ls
+test  test2  typescript
+annguyen@pe15:~/it244/ex/ex4$ cd test2
+annguyen@pe15:~/it244/ex/ex4/test2$ touch foo bar bletch gobble
+annguyen@pe15:~/it244/ex/ex4/test2$ ls -l
+total 0
+-rw-r--r-- 1 annguyen it244-2G 0 Feb  4 15:16 bar
+-rw-r--r-- 1 annguyen it244-2G 0 Feb  4 15:16 bletch
+-rw-r--r-- 1 annguyen it244-2G 0 Feb  4 15:16 foo
+-rw-r--r-- 1 annguyen it244-2G 0 Feb  4 15:16 gobble
+annguyen@pe15:~/it244/ex/ex4/test2$ rm foo
+annguyen@pe15:~/it244/ex/ex4/test2$ ls
+bar  bletch  gobble
+annguyen@pe15:~/it244/ex/ex4/test2$ ls
+bar  bletch  gobble
+annguyen@pe15:~/it244/ex/ex4/test2$ rm bar bletch
+annguyen@pe15:~/it244/ex/ex4/test2$ ls
+gobble
+annguyen@pe15:~/it244/ex/ex4/test2$ rm -i goo[Kbll[K[Kble
+rm: remove regular empty file 'gobble'? y
+annguyen@pe15:~/it244/ex/ex4/test2$ ls
+annguyen@pe15:~/it244/ex/ex4/test2$ 
+annguyen@pe15:~/it244/ex/ex4/test2$ touch baloney ham cheese turkey
+annguyen@pe15:~/it244/ex/ex4/test2$ ls
+baloney  cheese  ham  turkey
+annguyen@pe15:~/it244/ex/ex4/test2$ rm *
+annguyen@pe15:~/it244/ex/ex4/test2$ ls
+annguyen@pe15:~/it244/ex/ex4/test2$ pwd
+/home/annguyen/it244/ex/ex4/test2
+annguyen@pe15:~/it244/ex/ex4/test2$ toc[Kuch red blue green orange
+annguyen@pe15:~/it244/ex/ex4/test2$ cd ..
+annguyen@pe15:~/it244/ex/ex4$ pwd
+/home/annguyen/it244/ex/ex4
+annguyen@pe15:~/it244/ex/ex4$ ls test2
+blue  green  orange  red
+annguyen@pe15:~/it244/ex/ex4$ rmdir e[Ktest [K2
+rmdir: failed to remove 'test2': Directory not empty
+annguyen@pe15:~/it244/ex/ex4$ ls
+test  test2  typescript
+annguyen@pe15:~/it244/ex/ex4$ rm test2/*
+annguyen@pe15:~/it244/ex/ex4$ ls test2
+annguyen@pe15:~/it244/ex/ex4$ re[Kmdir test2
+annguyen@pe15:~/it244/ex/ex4$ ls
+test  typescript
+annguyen@pe15:~/it244/ex/ex4$ touch foo
+annguyen@pe15:~/it244/ex/ex4$ cp foo footoyou[K[K[K[Kyou[K[K[Koo[Kyou
+annguyen@pe15:~/it244/ex/ex4$ ls
+foo  footoyou  test  typescript
+annguyen@pe15:~/it244/ex/ex4$ cd test
+annguyen@pe15:~/it244/ex/ex4/test$ touch foo bar bletch
+annguyen@pe15:~/it244/ex/ex4/test$ cd ..
+annguyen@pe15:~/it244/ex/ex4$ pwd
+/home/annguyen/it244/ex/ex4
+annguyen@pe15:~/it244/ex/ex4$ cp -r test test3
+annguyen@pe15:~/it244/ex/ex4$ ls
+foo  footoyou  test  test3  typescript
+annguyen@pe15:~/it244/ex/ex4$ ls test3
+bar  bletch  foo
+annguyen@pe15:~/it244/ex/ex4$ cd test3
+annguyen@pe15:~/it244/ex/ex4/test3$ mv foot[K fott[K[Kotoyou[K[K[K[K_to_you[K[K[K[K[K[K[K[K_to_you
+annguyen@pe15:~/it244/ex/ex4/test3$ ls
+bar  bletch  foo_to_you
+annguyen@pe15:~/it244/ex/ex4/test3$ mv foo_to_o[Kyou ../test
+annguyen@pe15:~/it244/ex/ex4/test3$ ls
+bar  bletch
+annguyen@pe15:~/it244/ex/ex4/test3$ ls ../test
+bar  bletch  foo  foo_to_you
+annguyen@pe15:~/it244/ex/ex4/test3$ exit
+exit
+
+Script done on 2021-02-04 15:32:02-05:00 [COMMAND_EXIT_CODE="0"]

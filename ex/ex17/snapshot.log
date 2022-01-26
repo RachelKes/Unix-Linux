@@ -1,0 +1,24 @@
+Tue 30 Mar 2021 07:49:54 PM EDT
+/home/annguyen/it244/ex/ex17
+-----------------------
+total 28
+-rwxr-xr-x 1 annguyen it244-2G 292 Mar 30 19:49 dir_snap.sh
+-rw-r--r-- 1 annguyen it244-2G  40 Mar 30 19:42 errors.txt
+-rw-r--r-- 1 annguyen it244-2G  86 Mar 30 19:44 everything.txt
+-rw-r--r-- 1 annguyen it244-2G  46 Mar 30 19:39 foo1.txt
+-rw-r--r-- 1 annguyen it244-2G  51 Mar 30 19:39 foo2.txt
+-rw-r--r-- 1 annguyen it244-2G  46 Mar 30 19:41 foo_xxx.txt
+-rw-r--r-- 1 annguyen it244-2G  85 Mar 30 19:49 snapshot.log
+
+Tue 30 Mar 2021 07:51:26 PM EDT
+/home/annguyen/it244/ex/ex17
+-----------------------
+total 28
+-rwxr-xr-x 1 annguyen it244-2G 292 Mar 30 19:49 dir_snap.sh
+-rw-r--r-- 1 annguyen it244-2G  40 Mar 30 19:42 errors.txt
+-rw-r--r-- 1 annguyen it244-2G  86 Mar 30 19:44 everything.txt
+-rw-r--r-- 1 annguyen it244-2G  46 Mar 30 19:39 foo1.txt
+-rw-r--r-- 1 annguyen it244-2G  51 Mar 30 19:39 foo2.txt
+-rw-r--r-- 1 annguyen it244-2G  46 Mar 30 19:41 foo_xxx.txt
+-rw-r--r-- 1 annguyen it244-2G 597 Mar 30 19:51 snapshot.log
+

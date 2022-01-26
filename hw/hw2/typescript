@@ -1,0 +1,164 @@
+Script started on 2021-02-04 09:04:15-05:00 [TERM="xterm" TTY="/dev/pts/5" COLUMNS="80" LINES="24"]
+annguyen@pe15:~/it244/hw/hw2$ # Se[Ktep 1
+annguyen@pe15:~/it244/hw/hw2$ cd [K
+annguyen@pe15:~$ Stept[K[K[K[K[K# Te[K[KStep 2
+annguyen@pe15:~$ pwd
+/home/annguyen
+annguyen@pe15:~$ # Step 3
+annguyen@pe15:~$ ls [K
+it116  it117  it244
+annguyen@pe15:~$ #Step[K[K[K[K Step 4
+annguyen@pe15:~$ ls -a
+.  ..  .bash_history  .cache  it116  it117  it244  .local
+annguyen@pe15:~$ # Step 5
+annguyen@pe15:~$ cd /home [K/ghoffman/course_files/it244_files
+annguyen@pe15:/home/ghoffman/course_files/it244_files$ #S[K Step 6
+annguyen@pe15:/home/ghoffman/course_files/it244_files$ ls -l
+total 356
+-rw-r--r-- 1 ghoffman it244-1  1111 Sep 10  2019 _attendance_it115.txt.orig
+-rw-r--r-- 1 ghoffman it244-1  1216 Sep 24  2019 _attendance_it244.txt.orig
+-rwxr-xr-x 1 ghoffman it244-1    25 Sep  1  2018 big_job.sh
+-rwxr-xr-x 1 ghoffman it244-1   163 Sep  1  2018 bother10.sh
+-rwxr-xr-x 1 ghoffman it244-1   131 Sep  1  2018 bother.sh
+-rwxr-xr-x 1 ghoffman it244-1   167 Sep  1  2018 break.sh
+-rwxr-xr-x 1 ghoffman it244-1   327 Sep  1  2018 case_1.sh
+-rwxr-xr-x 1 ghoffman it244-1   388 Sep  1  2018 case_2.sh
+-rwxr-xr-x 1 ghoffman it244-1   379 May 13  2020 case.sh
+-rwxr-xr-x 1 ghoffman it244-1   222 Sep  1  2018 cat_file.sh
+-rwxr-xr-x 1 ghoffman it244-1    66 Sep  1  2018 cat_foo.sh
+-rwxr-xr-x 1 ghoffman it244-1    76 Sep  1  2018 cheer.sh
+-rwxr-xr-x 1 ghoffman it244-1    99 Sep  1  2018 comment_test.sh
+-rwxr-xr-x 1 ghoffman it244-1   252 Sep  1  2018 continue.sh
+-rwxr-xr-x 1 ghoffman it244-1   133 Sep  1  2018 count_to_five.sh
+-rwxr-xr-x 1 ghoffman it244-1   125 Sep  1  2018 count_to_nine.sh
+-rwxr-xr-x 1 ghoffman it244-1   222 Sep  1  2018 count_until.sh
+drwxr-xr-x 3 ghoffman it244-1  4096 Oct  8  2019 dir1
+drwxr-xr-x 6 ghoffman it244-1  4096 Apr 23  2019 dir_permissions
+drwxr-xr-x 3 ghoffman it244-1  4096 Sep  1  2018 dir_tree
+-rwxr-xr-x 1 ghoffman it244-1   105 Sep  1  2018 echo_no_option.sh
+-rwxr-xr-x 1 ghoffman it244-1   105 Sep  1  2018 echo_with_n_option.sh
+-rw-r--r-- 1 ghoffman it244-1     0 Sep  1  2018 empty.txt
+-rwxr-xr-x 1 ghoffman it244-1   368 Apr 23  2019 executable_check.sh
+-rwxr-xr-x 1 ghoffman it244-1   429 Apr 23  2019 file_check.sh
+-rw-r--r-- 1 ghoffman it244-1    35 Sep  1  2018 five_lines.txt
+-rw-r--r-- 1 ghoffman it244-1     0 Dec 15 11:12 foo10.txt
+-rw-r--r-- 1 ghoffman it244-1    46 Dec 15 11:12 foo1.txt
+-rw-r--r-- 1 ghoffman it244-1    51 Dec 15 11:12 foo2.txt
+-rw-r--r-- 1 ghoffman it244-1     0 Dec 15 11:12 foo3.txt
+-rw-r--r-- 1 ghoffman it244-1     0 Dec 15 11:12 foo4.txt
+-rw-r--r-- 1 ghoffman it244-1     0 Dec 15 11:12 foo5.txt
+-rw-r--r-- 1 ghoffman it244-1     0 Dec 15 11:12 foo6.txt
+-rw-r--r-- 1 ghoffman it244-1     0 Dec 15 11:12 foo7.txt
+-rw-r--r-- 1 ghoffman it244-1     0 Dec 15 11:12 foo8.txt
+-rw-r--r-- 1 ghoffman it244-1     0 Dec 15 11:12 foo9.txt
+-rwxr-xr-x 1 ghoffman it244-1   130 Dec 15 11:12 foo_in_dir.sh
+-rwxr-xr-x 1 ghoffman it244-1    16 Dec 15 11:12 foo.sh
+-rw-r--r-- 1 ghoffman it244-1    75 Dec 15 11:12 foo.txt
+-rwxr-xr-x 1 ghoffman it244-1    82 Sep  1  2018 for_1.sh
+-rwxr-xr-x 1 ghoffman it244-1   100 Sep  1  2018 for_2.sh
+-rwxr-xr-x 1 ghoffman it244-1   127 Sep  1  2018 for_3.sh
+-rwxr-xr-x 1 ghoffman faculty   110 Feb  3 15:55 forever.py
+lrwxrwxrwx 1 ghoffman faculty    10 Feb  3 16:35 forever.sh -> forever.py
+-rwxr-xr-x 1 ghoffman it244-1    81 Sep  1  2018 for_test.sh
+-rwxr-xr-x 1 ghoffman it244-1   133 Sep  1  2018 fruit.sh
+-rw-r--r-- 1 ghoffman it244-1    59 Sep  1  2018 fruit.txt
+-rwxr-xr-x 1 ghoffman it244-1    94 Sep  1  2018 go_home_bad_2.sh
+-rwxr-xr-x 1 ghoffman it244-1    53 Sep  1  2018 go_home_bad.sh
+-rwxr-xr-x 1 ghoffman it244-1    19 Sep  1  2018 hello_1.py
+-rwxr-xr-x 1 ghoffman it244-1    41 Sep  1  2018 hello_2.py
+-rwxr-xr-x 1 ghoffman it244-1    32 Sep  1  2018 hello.sh
+-rwxr-xr-x 1 ghoffman faculty   234 Dec 10 09:54 here_instructions.sh
+-rwxr-xr-x 1 ghoffman it244-1   211 May 13  2020 here.sh
+-rwxr-xr-x 1 ghoffman it244-1    94 Sep  1  2018 hi_bye.sh
+-rwxr-xr-x 1 ghoffman it244-1   453 Sep  1  2018 if_4.sh
+-rw-r--r-- 1 ghoffman it244-1 13387 Sep  1  2018 it_students
+-rw-r--r-- 1 ghoffman faculty    71 Jan 19 12:54 lines.txt
+-rw-r--r-- 1 ghoffman it244-1    79 Sep  1  2018 log.txt
+-rwxr-xr-x 1 ghoffman it244-1   154 Sep  1  2018 make_foo.sh
+-rwxr-xr-x 1 ghoffman it244-1   222 Sep  1  2018 make_upper.py
+-rwxr-xr-x 1 ghoffman it244-1   421 Sep  1  2018 match_three.sh
+-rw-r--r-- 1 ghoffman it244-1    35 Aug 24  2019 numbered_lines.txt
+-rw-r--r-- 1 ghoffman it244-1    51 Feb 26  2019 numbers1.txt
+-rw-r--r-- 1 ghoffman it244-1    51 Sep  1  2018 numbers2.txt
+-rw-r--r-- 1 ghoffman it244-1    50 Sep  1  2018 numbers.txt
+-rwxr-xr-x 1 ghoffman it244-1   318 Sep  1  2018 param_test_1.sh
+-rwxr-xr-x 1 ghoffman it244-1   342 Sep  1  2018 param_test_2.sh
+-rwxr-xr-x 1 ghoffman it244-1    94 Apr 21  2019 print_arg_numbers.sh
+-rwxr-xr-x 1 ghoffman it244-1   156 Sep  1  2018 print_foo_bar.sh
+-rwxr-xr-x 1 ghoffman it244-1    71 Sep  1  2018 print_foo.sh
+-rwxr-xr-x 1 ghoffman it244-1   132 Apr 21  2019 print_positionals.sh
+-rwxr-xr-x 1 ghoffman it244-1   122 Sep  1  2018 read_1.sh
+-rwxr-xr-x 1 ghoffman it244-1   141 Sep  1  2018 read_2.sh
+dr--r--r-- 2 ghoffman it244-1  4096 Sep  1  2018 read_only_dir
+-rw-r--r-- 1 ghoffman it244-1  1214 Sep  1  2018 red_sox.txt
+-rwxr-xr-x 1 ghoffman it244-1   229 Sep  1  2018 repeat.sh
+-rwxr-xr-x 1 ghoffman it244-1   209 Sep  1  2018 select_1.sh
+-rwxr-xr-x 1 ghoffman it244-1   219 Sep  1  2018 select_2.sh
+-rwxr-xr-x 1 ghoffman it244-1   208 Sep  1  2018 select_3.sh
+-rwxr-xr-x 1 ghoffman it244-1   320 Sep  1  2018 select_4.sh
+-rwxr-xr-x 1 ghoffman it244-1   389 May 13  2020 select.sh
+-rwxr-xr-x 1 ghoffman it244-1   352 Sep  1  2018 set.sh
+-rwxr-xr-x 1 ghoffman it244-1    17 Sep  1  2018 shell_test_1.sh
+-rwxr-xr-x 1 ghoffman it244-1     6 Sep  1  2018 shell_test_2.sh
+-rwxr-xr-x 1 ghoffman it244-1   223 Sep  1  2018 shift_1.sh
+-rwxr-xr-x 1 ghoffman it244-1   254 Sep  1  2018 shift_2.sh
+-rwxr-xr-x 1 ghoffman it244-1   140 Sep  1  2018 shift_3.sh
+-rwxr-xr-x 1 ghoffman it244-1   140 Sep  1  2018 special_param_test_1.sh
+-rwxr-xr-x 1 ghoffman it244-1   206 Sep  1  2018 special_param_test_2.sh
+-rwxr-xr-x 1 ghoffman it244-1   210 Sep  1  2018 special_param_test_3.sh
+drwxr-xr-x 2 ghoffman it244-1  4096 Mar 23  2020 test
+-rw-r--r-- 1 ghoffman it244-1    58 Sep  1  2018 test.txt
+-rwxr-xr-x 1 ghoffman it244-1   163 Sep  1  2018 update.sh
+-rwxr-xr-x 1 ghoffman it244-1   234 Sep  1  2018 usage_1.sh
+-rwxr-xr-x 1 ghoffman it244-1   212 Sep  1  2018 usage_2.sh
+annguyen@pe15:/home/ghoffman/course_files/it244_files$ # Step 7
+annguyen@pe15:/home/ghoffman/course_files/it244_files$ cat fruit.txt
+grapes
+pears
+oranges
+cranberries
+apples
+melons
+blueberries
+annguyen@pe15:/home/ghoffman/course_files/it244_files$ # Step 8
+annguyen@pe15:/home/ghoffman/course_files/it244_files$ cat red_sox.txt
+2011-07-02      Red Sox @  Astros       Win 7-5
+2011-07-03      Red Sox @  Astros       Win 2-1
+2011-07-04      Red Sox vs Blue Jays    Loss 7-9
+2011-07-05      Red Sox vs Blue Jays    Win 3-2
+2011-07-06      Red Sox vs Blue Jays    Win 6-4
+2011-07-07      Red Sox vs Orioles      Win 10-4
+2011-07-08      Red Sox vs Orioles      Win 10-3
+2011-07-09      Red Sox vs Orioles      Win 4-0
+2011-07-10      Red Sox vs Orioles      Win 8-6
+2011-07-15      Red Sox @  Rays         Loss 6-9
+2011-07-16      Red Sox @  Rays         Win 9-5
+2011-07-17      Red Sox @  Rays         Win 1-0
+2011-07-18      Red Sox @  Orioles      Win 15-10
+2011-07-19      Red Sox @  Orioles      Loss 2-6
+2011-07-20      Red Sox @  Orioles      Win 4-0
+2011-07-22      Red Sox vs Mariners     Win 7-4
+2011-07-23      Red Sox vs Mariners     Win 3-1
+2011-07-24      Red Sox vs Mariners     Win 12-8
+2011-07-25      Red Sox vs Royals       Loss 1-3
+2011-07-26      Red Sox vs Royals       Win 13-9
+2011-07-27      Red Sox vs Royals       Win 12-5
+2011-07-28      Red Sox vs Royals       Loss 3-4
+2011-07-29      Red Sox @  White Sox    Loss 1-3
+2011-07-30      Red Sox @  White Sox    Win 10-2
+2011-07-31      Red Sox @  White Sox    Win 5-3
+annguyen@pe15:/home/ghoffman/course_files/it244_files$ # Step 9
+annguyen@pe15:/home/ghoffman/course_files/it244_files$ cd /hoem[K[Kme/annguyen/it244/h w/hw2
+annguyen@pe15:~/it244/hw/hw2$ # Step 10
+annguyen@pe15:~/it244/hw/hw2$ pwd
+/home/annguyen/it244/hw/hw2
+annguyen@pe15:~/it244/hw/hw2$ # Step 11
+annguyen@pe15:~/it244/hw/hw2$ ls
+redsox.txt  typescript
+annguyen@pe15:~/it244/hw/hw2$ # Step 12
+annguyen@pe15:~/it244/hw/hw2$ ls -a
+.  ..  redsox.txt  typescript
+annguyen@pe15:~/it244/hw/hw2$ exit
+exit
+
+Script done on 2021-02-04 09:09:29-05:00 [COMMAND_EXIT_CODE="0"]
