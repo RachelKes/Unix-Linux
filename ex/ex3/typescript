@@ -1,0 +1,12 @@
+Script started on 2021-02-03 19:04:14-05:00 [TERM="xterm" TTY="/dev/pts/15" COLUMNS="80" LINES="24"]
+annguyen@pe15:~/it244/ex/ex3$ cd [K
+annguyen@pe15:~$ pws[Kd
+/home/annguyen
+annguyen@pe15:~$ ls
+it116  it117  it244
+annguyen@pe15:~$ echo $SHEE[KLL
+/bin/bash
+annguyen@pe15:~$ exit
+exit
+
+Script done on 2021-02-03 19:05:00-05:00 [COMMAND_EXIT_CODE="0"]

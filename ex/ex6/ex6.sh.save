@@ -1,0 +1,6 @@
+cd /home/ghoffman/course_files/it244_files
+cat numbers1.txt
+cat numbers2.txt
+diff numbers1.txt numbers2.txt
+diff -y numbers1.txt numbers2.txtfile 
+file break.sh
